@@ -1,7 +1,7 @@
 
-public class Circle {
+public class Rectangle {
 
-	public Circle() {
+	public Rectangle() {
 		// TODO Auto-generated constructor stub
 	}
 
